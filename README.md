@@ -15,4 +15,6 @@ alimento. De manera tecnica, la serpiente es controlada por una red neuronal (to
  
  -50 : si la serpiente supera un limite de tiempo sin comer manzanas (se muere de hambre).
 
+Las filas de numeros que se muestran en pantalla corresponden a el vector que ingresa a la red neuronal (fila de numeros superior) y el vector que sale de la misma (fila de numeros inferior). Se dice que la red puede observar información de su estado (vector entrada) y elegir una accion a realizar (vector de salida). 
+
 gracias por visitar este repositorio!
