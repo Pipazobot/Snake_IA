@@ -1,3 +1,0 @@
-Pene 
-
-Tetas
