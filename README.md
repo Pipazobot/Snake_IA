@@ -2,7 +2,7 @@
 
 Pene
 
-![](juego_de_snake.jpg)
+![](jugo_de_snake.jpg)
 
 Tetas
 
